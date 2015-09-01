@@ -8,3 +8,10 @@
 ul.nav a:hover {
 	color:white !important;
 }
+.active {
+	background-color:black;
+	
+}
+.navbar-default .navbar-nav>li>a {
+	color:#666;
+}
