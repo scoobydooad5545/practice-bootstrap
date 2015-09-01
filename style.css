@@ -1,3 +1,10 @@
 .navbar {
 	background-color:black;
 }
+.navbar-nav a{
+	border-radius:0px;
+	color:#666;
+}
+ul.nav a:hover {
+	color:white !important;
+}
